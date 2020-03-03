@@ -75,41 +75,9 @@ return (
     </div>
   </div>
 
-  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
-    <img src={rosas} className="db w-100 br2 br--top" alt="Producto Ramos"/>
-    <div className="pa2 ph3-ns pb3-ns">
-      <div className="dt w-100 mt1">
-        <div className="dtc tc ">
-          <h1 className="f5 f4-ns mv0">CORPORATIVOS</h1>
-        </div>
 
-      </div>
-      <p className="f6 lh-copy measure mt2 black tc">
-        Te ayudamos a brindar soluciones corporativas. Contáctanos.
-      </p>
-      <div className="ph3 pa3 tc">
-        <a className="f4 dib  bg-animate hover-bg-black hover-white no-underline pv2 mh2 br-pill ba b--black-20 black pa2" href="https://wa.me/51948018337?text=Hola%2C+Yamheru%2C+Estoy+interesado+en+el+servcio+CORPORATIVOS">CONTACTANOS</a>
-      </div>
-    </div>
-  </div>
 
-  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
-    <img src={planta1} className="db w-100 br2 br--top" alt="Producto Plantas"/>
-    <div className="pa2 ph3-ns pb3-ns">
-      <div className="dt w-100 mt1">
-        <div className="dtc tc ">
-          <h1 className="f5 f4-ns mv0">PLANTAS</h1>
-        </div>
 
-      </div>
-      <p className="f6 lh-copy measure mt2 black tc">
-        Orquideas, Bambus, Suculentas. Para mas informacion Contáctanos.
-      </p>
-      <div className="ph3 pa3 tc">
-        <a className="f4 dib  bg-animate hover-bg-black hover-white no-underline pv2 mh2 br-pill ba b--black-20 black pa2" href="https://wa.me/51948018337?text=Hola%2C+Yamheru%2C+Estoy+interesado+en+el+servicio+PLANTAS">CONTACTANOS</a>
-      </div>
-    </div>
-  </div>
 
   <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
     <img src={complementos} className="db w-100 br2 br--top" alt="Producto Ramos"/>
@@ -129,25 +97,7 @@ return (
     </div>
   </div>
 
-  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
-    <img src={mesa2} className="db w-100 br2 br--top" alt="Producto Ramos"/>
-    <div className="pa2 ph3-ns pb3-ns">
-      <div className="dt w-100 mt1">
-        <div className="dtc tc ">
-          <h1 className="f5 f4-ns mv0">SUBSCRIPCION</h1>
-        </div>
 
-      </div>
-      <p className="f6 lh-copy measure mt2 black tc">
-        Deseas recibir flores cada semana a tu casa. Subscribete.
-      </p>
-
-      <div className="ph3 pa3 tc">
-        <a className="f4 dib  bg-animate hover-bg-black hover-white no-underline pv2 mh2 br-pill ba b--black-20 black pa2" href="https://wa.me/51948018337?text=Hola%2C+Yamheru%2C+Estoy+interesado+en+SUBSCRIPCION">CONTACTANOS</a>
-      </div>
-
-    </div>
-  </div>
 
 </div>
 
