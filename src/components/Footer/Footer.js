@@ -10,7 +10,7 @@ return (
 
   <div className="flex flex-wrap mb4-l cf">
     <h1 className="fl w-100 pv0 f3 ttu tracked mb4">Contacto</h1>
-    <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pr2 pr0-ns">
+    <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pr2 pr0-ns tc">
       <h4 className="f5 f4-l fw6">Redes Sociales</h4>
 
     <a className="link near-black hover-silver dib mh tc" href="https://facebook.com/yamheru" title="Facebook">
@@ -29,10 +29,10 @@ return (
 
     <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pl2 pl0-ns">
       <h4 className="f5 f4-l fw6">Telefonos</h4>
-      <a href="tel:+13235555555" className="f6 db fw6 pv2 link dim black-70" title="Call Lima office.">
+      <a href="tel:+51-948018337" className="f6 db fw6 pv2 link dim black-70" title="Call Lima office.">
         +51-948018337
       </a>
-      <a href="tel:+13235555555" className="f6 db fw6 pv2 link dim black-70" title="Call Lima office.">
+      <a href="tel:+51-948018337" className="f6 db fw6 pv2 link dim black-70" title="Call Lima office.">
         +51-997502031
       </a>
     </article>
@@ -41,14 +41,7 @@ return (
       <a href="mailto:informacion@yamheru.com" className="f6 db fw6 pv2 link dim black-70" title="Mail office.">informacion@yamheru.com</a>
       <a href="mailto:yamheru.floral@gmail.com" className="f6 db fw6 pv2 link dim black-70" title="Mail office." >yamheru.floral@gmail.com</a>
     </article>
-    <article className="fl w-50 dib-ns w-auto-ns mb4 pl2 pl0-ns">
-      <h4 className="f5 f4-l fw6">Direccion</h4>
 
-					<a href="https://www.google.ca/maps/place/1087+Bathurst+St,+Toronto,+ON+M5R+3G8/@43.6728221,-79.4162866,17z/data=!3m1!4b1!4m5!3m4!1s0x882b349acd3670bb:0x27e49690a1d99388!8m2!3d43.6728221!4d-79.4140979" >
-          <span className="f7 f6-l db black-70" title="Call Lima office.">La Molina, Rotonda 158 2do piso </span>
-					</a>
-
-    </article>
   </div>
 
 

@@ -57,7 +57,7 @@ return (
 
 <div className="flex flex-wrap items-center br3">
 
-  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
+  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mv5 center">
     <img src={text777} className="db w-100 br2 br--top" alt="Producto Ramos"/>
     <div className="pa2 ph3-ns pb3-ns">
       <div className="dt w-100 mt1">
@@ -79,7 +79,7 @@ return (
 
 
 
-  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
+  <div className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mv5 center">
     <img src={complementos} className="db w-100 br2 br--top" alt="Producto Ramos"/>
     <div className="pa2 ph3-ns pb3-ns">
       <div className="dt w-100 mt1">
