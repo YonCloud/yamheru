@@ -1,0 +1,22 @@
+.margindiv {
+
+  margin-left: 51%;
+  margin-top: 160px;
+}
+
+.artbg {
+
+  background-image: url("fondo1.jpg");
+  background-size: 100%;
+  height: 1019px;
+
+
+}
+
+@media only screen and (max-width: 480px) {
+
+.rotateunii {
+
+          width: auto;
+            }
+}
