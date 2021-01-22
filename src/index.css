@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Playfair Display';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("fondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
